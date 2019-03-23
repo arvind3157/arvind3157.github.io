@@ -2,10 +2,11 @@
 layout: posts
 title: Bootcamp for fresh computer science graduate
 ---
-
+<div style="text-align: justify">
 You can consider this as bootcamp or check list for someone trying to become a good software developer. Below are the areas you should focus. Mostly they are in order. Try sticking with that.  
 The links I have provided just for reference and let you get started.  
 I encourage you to explore more beyond the link.
+</div>
 
 ### Basics
 
