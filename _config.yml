@@ -12,14 +12,14 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "default" # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "CS Camp"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "CS Camp"
+description              : "A portal for Computer Science enthusiast"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,10 +106,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Arvind Pandey"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "Software Engineer by profession, ameteur runner"
+  location         : "Hyderabad, India"
   email            :
   links:
     - label: "Email"
