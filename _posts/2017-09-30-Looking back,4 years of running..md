@@ -1,5 +1,4 @@
 ---
-layout: posts
 title: Looking back,4 years of running.
 ---
 ![MarathonPic](/assets/images/Marathon.jpg)  

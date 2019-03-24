@@ -1,5 +1,4 @@
 ---
-layout: posts
 title: What is your definition of growing up?
 ---
 <div style="text-align: justify">

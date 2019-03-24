@@ -1,5 +1,4 @@
 ---
-layout: posts
 title: 7 things I learnt from running marathons
 ---
 

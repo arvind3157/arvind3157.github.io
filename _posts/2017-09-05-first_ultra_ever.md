@@ -1,5 +1,4 @@
 ---
-layout: posts
 title: When I walked 60 kms whole night for the first time.
 ---
 

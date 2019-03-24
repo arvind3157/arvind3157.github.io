@@ -1,5 +1,4 @@
 ---
-layout: posts
 title: Bootcamp for fresh computer science graduate
 ---
 <div style="text-align: justify">
