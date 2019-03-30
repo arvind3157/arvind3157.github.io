@@ -15,7 +15,6 @@ Below is wikipedia link to read more formal definition of graph.
 [Graph (abstract data type)](https://en.wikipedia.org/wiki/Graph_(abstract_data_type)){:target="_blank"}
 
 ### Terminologies in graph
-
 * Graph -> The abstract concept of connected things
 * Vertex -> The vertext represent the thing. (Computer, airport, city, person etc)
 * Edge -> Edge defines the relation between things. If one computer is connected to other computer, this can be denoted with edge
@@ -31,7 +30,7 @@ For our illustration, we are going to use below graph.
 
 ![Graph](/assets/images/graph.png)
 
-Adjacency representation of above graph will look something like below
+Adjacency list representation of above graph will look something like below
 
 ```javascript
 
@@ -45,7 +44,6 @@ Adjacency representation of above graph will look something like below
 
 ```
 ## Implementation
-
 ### Graph framework
 
 ```javascript
