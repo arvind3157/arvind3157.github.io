@@ -1,14 +1,15 @@
 ---
 title: 7 things I learnt from running marathons
+header:
+  image: /assets/images/7_things_marathon.jpg
 ---
-
-![Marathon Pic](/assets/images/7_things_marathon.jpg)
 
 <div style="text-align: justify">
 What running can teach you might be helpful throughout your life.I have run several marathons in the past and believe me each race is different. Each time I get to learn something new. It’s always about me. Running not only kept me fit and active but also my view towards life has changed. The course of 42.2 km can teach you many life lessons in a couple of hours. Like in real life we plan something, we try to execute those and sometimes it works as per plan and sometimes it doesn’t. Same goes when running a marathon. You start the race with some plan in hand, you try to execute those plan and if by any chance the plan didn’t work. What a runner does? Below are some if not all life lessons I learned in past 4 years.  
 </div>
 
-### 1. Life is a marathon, not sprint  
+### 1. Life is a marathon, not sprint
+
 <div style="text-align: justify">
 When you start running a marathon, soon you will realize you can’t just run all out and finish the race. If you tried doing so you will not finish even quarter of the race. You have to maintain a comfortable pace throughout the race. Same goes with our lives, we have to set up a system that we can follow for a long time.  
 </div>
